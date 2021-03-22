@@ -1,2 +1,2 @@
 # bike-sharing-predication-VN
-In-school Machine Learning Project
+On-school Machine Learning Project
