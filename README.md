@@ -1,4 +1,5 @@
-# Mô tả - Description
+# Mô tả - Description:
+- Áp dụng các giải thuật được học trên lớp Nguyên Lý Máy Học để dự đoán số lượng xe đạp sẽ được thuê dựa vào các yếu tố cho trước - Using algorithms that i'd learned on Machine Learning class to predict rental bike based on attributes given in CSV  file
 - Tập dữ liệu dưới dạng CSV từ [Kaggle](https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset) - Dataset CSV file is taken from [Kaggle](https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset)
 - Tiền xử lý - Dataset pre-processing:
       Bỏ bớt 4 cột dữ liệu - Drop 4 data columns.
@@ -23,6 +24,7 @@ Contact me via [Facebook](https://facebook.com/yllaw99)
 
 # Người hướng dẫn - Mentor
 - Cô [Trần Nguyễn Minh Thư](#Miss-Tran-Nguyen-Minh-Thu)
+- [Can Tho University]
 
 # Đồng tác giả - Co-Author:
 - Edit Code: Đặng Văn Tường
