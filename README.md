@@ -1,3 +1,12 @@
+<p align="center">
+  <img height="300px" src="https://github.com/yllaw99/bike-sharing-predication-VN/blob/main/attributes.PNG"/>
+ </p>
+<p align="center">Attributes</p>
+<p align="center">
+  <img height="300px" src="https://github.com/yllaw99/bike-sharing-predication-VN/blob/main/average%20RMSE.PNG"/>
+ </p>
+<p align="center">RMSE Evaluate 10 loops average</p>
+
 # Mô tả - Description:
 - Áp dụng các giải thuật được học trên lớp Nguyên Lý Máy Học để dự đoán số lượng xe đạp sẽ được thuê dựa vào các yếu tố cho trước - Using algorithms that i'd learned on Machine Learning class to predict rental bike based on attributes given in CSV  file
 - Tập dữ liệu dưới dạng CSV từ [Kaggle](https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset) - Dataset CSV file is taken from [Kaggle](https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset)
