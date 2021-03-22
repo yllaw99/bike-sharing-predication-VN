@@ -1,9 +1,3 @@
-# Đồng tác giả - Co-Author:
-- Edit Code: Đặng Văn Tường
-- Main code: Phạm Trí Minh
-- Presentation: Đặng Văn Tường
-- Prepare ppt file: Nguyễn Hùng Thuận
-
 # Mô tả - Description
 - Tập dữ liệu dưới dạng CSV từ [Kaggle](https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset) - Dataset CSV file is taken from [Kaggle](https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset)
 - Tiền xử lý - Dataset pre-processing:
@@ -20,8 +14,8 @@
       3) python Scikit learn lib `3.2.5` install:-      ' pip install sklearn '
 
 # Lưu ý - Notes
-- Tải và cài đặt driver trình duyệt theo trình duyệt bạn đang sử dụng - Download and install the browser driver according the one you are using
-- Chỉ hoạt động với trang web [Luxstay](https://luxstay.com/vi/s) - Only works on website [Luxstay](https://luxstay.com/vi/s)
+- File [main1.py] là file dùng toàn bộ dữ liệu trong file CSV - [main1.py] is the main code file using all data in CSV dataset
+- File [demo.py] là file chỉ dùng 10 dòng dữ liệu để báo cáo - [demo.py] is only use 10 rows in dataset for presentation
 
 # Góp ý - Issues
 Liên hệ mình qua [Facebook](https://facebook.com/yllaw99)
@@ -29,3 +23,9 @@ Contact me via [Facebook](https://facebook.com/yllaw99)
 
 # Người hướng dẫn - Mentor
 - Cô [Trần Nguyễn Minh Thư](#Miss-Tran-Nguyen-Minh-Thu)
+
+# Đồng tác giả - Co-Author:
+- Edit Code: Đặng Văn Tường
+- Main code: Phạm Trí Minh
+- Presentation: Đặng Văn Tường
+- Prepare ppt file: Nguyễn Hùng Thuận
